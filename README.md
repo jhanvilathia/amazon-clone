@@ -1,4 +1,4 @@
-## Available Scripts
+## Amazon-clone using React:
 
 In the project directory, you can run:
 
